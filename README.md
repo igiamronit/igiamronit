@@ -5,10 +5,10 @@
 </a>
 
 ### About Me
-You can create anything you imagine with coding," and that's exactly what I'm striving to do.  
-Currently student at Indian Institute of Technology Hyderabad.  
-I’m still learning the basic skills needed to create the things I want to.  
-I like Sweet.  
+- You can create anything you imagine with coding," and that's exactly what I'm striving to do.  
+- Currently student at Indian Institute of Technology Hyderabad.  
+- I’m still learning the basic skills needed to create the things I want to.  
+- I like Sweet.  
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=c,git,github,html,css)](https://skillicons.dev)
