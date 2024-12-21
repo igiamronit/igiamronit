@@ -21,7 +21,9 @@ I like Sweet.
     <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
 </a>
 
-<a href="https://www.instagram.com/iamronit73/" target="_blank">
+<a href="https://www.instagram.com/iamronit73/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="35" height="35"/>
 </a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
