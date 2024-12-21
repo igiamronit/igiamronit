@@ -11,4 +11,7 @@ I’m still learning the basic skills needed to create the things I want to.
 I like Sweet.  
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=github,git,html,css,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,git,github,html,css)](https://skillicons.dev)
+
+## Currently learning
+[![Learning](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
