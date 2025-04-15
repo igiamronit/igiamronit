@@ -11,10 +11,10 @@
 - I have a sweet tooth.  
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=c,git,github,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,git,github,html,css,js,py,numpy)](https://skillicons.dev)
 
 ## Currently learning
-[![Learning](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=pytorch,react)](https://skillicons.dev)
 
 ### Connect with Me
 <a href="https://www.linkedin.com/in/ronit-ranjan-998064328/">
