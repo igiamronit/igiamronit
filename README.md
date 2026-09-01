@@ -97,17 +97,26 @@ properly deep on **modern C++** — I'd rather understand the kernel than just c
 ### GitHub
 
 <p align="center">
-  <img width="700" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igiamronit&theme=github_dark#gh-dark-mode-only" />
-  <img width="700" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igiamronit&theme=default#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igiamronit&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igiamronit&theme=default">
+    <img width="700" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igiamronit&theme=default">
+  </picture>
 </p>
 
 <p align="center">
-  <img height="200" alt="Languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igiamronit&theme=github_dark#gh-dark-mode-only" />
-  <img height="200" alt="Languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igiamronit&theme=github_dark#gh-dark-mode-only" />
-  <img height="200" alt="Languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igiamronit&theme=default#gh-light-mode-only" />
-  <img height="200" alt="Languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igiamronit&theme=default#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igiamronit&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igiamronit&theme=default">
+    <img height="200" alt="Languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igiamronit&theme=default">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igiamronit&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igiamronit&theme=default">
+    <img height="200" alt="Languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igiamronit&theme=default">
+  </picture>
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=igiamronit&hide_border=true&background=00000000&stroke=30363D&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=768390&dates=768390&sideNums=768390&currStreakNum=2F81F7" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=igiamronit&hide_border=true&background=00000000&stroke=30363D&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=768390&dates=768390&sideNums=768390&currStreakNum=2F81F7">
 </p>
